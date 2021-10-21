@@ -1,7 +1,7 @@
 
 
 
-void set() {
+void setup() {
   
   size(800,640);
   
